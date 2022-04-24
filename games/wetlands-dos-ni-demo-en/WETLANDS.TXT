@@ -1,0 +1,41 @@
+;------------------------------------------------------------------------
+;--------------------------- List File for PlaySmks ---------------------
+;------------------------------------------------------------------------
+;
+;SOUND BED
+;to play a sound file:   play sound => file.raw  bits(8,16) type(0=mono, 1=stereo) rate(11025, 22050,44100)
+play sound => wetmusic.81m 8 0 11025
+;
+;ANIMATION FILES
+demo\nw_logo.smk
+demo\hypnotix.smk
+demo\wetlogo.smk
+demo\c31c1.smk
+demo\demo31.smk
+demo\c31c2.smk
+demo\c31e1.smk
+demo\logo_w.smk
+demo\bar01b.smk
+demo\gun_320.smk
+demo\logo_e.smk
+demo\c30peek.smk
+demo\demo30.smk
+demo\c30knife.smk
+demo\logo_t.smk
+demo\c51teez.smk
+demo\demo21.smk
+demo\c51kill.smk
+demo\logo_l.smk
+demo\run_320.smk
+demo\logo_a.smk
+demo\demo50.smk
+demo\c50gate.smk
+demo\logo_n.smk
+demo\c22end.smk
+demo\logo_d.smk
+demo\demo44.smk
+demo\c44boom.smk
+demo\logo_s.smk
+demo\xi.smk
+demo\wetlogo.smk
+demo\c30shoot.smk
