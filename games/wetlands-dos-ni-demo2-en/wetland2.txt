@@ -1,0 +1,10 @@
+Type WETDEMO to begin the Wetlands demo.  Press ESC to return to DOS.
+If the demo runs slowly from the CD you may wish to copy it to your
+hard drive.  This process requires 45 MB of disk space.
+
+To copy the game to you hard disk, type INSTALL followed by the letter
+of the drive on which you wish to install.
+
+Example:  INSTALL C:
+
+Enjoy!
